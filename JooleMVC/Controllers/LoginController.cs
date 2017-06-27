@@ -12,7 +12,7 @@ namespace JooleMVC.Controllers
     public class LoginController : Controller
     {
         JooleDAL.Repositories.UnitOfWork obj = new JooleDAL.Repositories.UnitOfWork();
-
+        //hjhfythfg
         //public LoginController(JooleDAL.Repositories.IUnitOfWork unitofwork)
         //{
         //    _uow = unitofwork;
